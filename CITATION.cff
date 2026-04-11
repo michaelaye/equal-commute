@@ -5,8 +5,8 @@ type: software
 authors:
   - given-names: "Michael"            # ← your given name
     family-names: "Aye"           # ← your family name
-    # orcid: "https://orcid.org/0000-0002-4088-1928"  # optional, uncomment if you have one
-    # affiliation: "Freie Uni Berlin, Germany"          # optional
+    orcid: "https://orcid.org/0000-0002-4088-1928"  # optional, uncomment if you have one
+    affiliation: "Freie Uni Berlin, Germany"          # optional
 version: 0.1.0
 date-released: "2026-04-11"
 url: "https://github.com/michaelaye/equal-commute"        # ← your repo URL
