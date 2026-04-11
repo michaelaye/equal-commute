@@ -3,13 +3,13 @@ title: "Equal Commute Finder"
 message: "If you use this software, please cite it using the metadata from this file."
 type: software
 authors:
-  - given-names: "Michael"            # ← your given name
-    family-names: "Aye"           # ← your family name
-    orcid: "https://orcid.org/0000-0002-4088-1928"  # optional, uncomment if you have one
-    affiliation: "Freie Uni Berlin, Germany"          # optional
+  - given-names: "Michael"
+    family-names: "Aye"
+    orcid: "https://orcid.org/0000-0002-4088-1928"
+    affiliation: "Freie Universität Berlin, Germany"
 version: 0.1.0
 date-released: "2026-04-11"
-url: "https://github.com/michaelaye/equal-commute"        # ← your repo URL
+url: "https://github.com/michaelaye/equal-commute"
 repository-code: "https://github.com/michaelaye/equal-commute"
 license: MIT
 keywords:
