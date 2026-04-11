@@ -1,0 +1,16 @@
+# Generated output
+equi_commute_berlin.html
+
+# Cached API results (safe to delete, will regenerate)
+ors_cache.npz
+osm_pois.json
+osm_water.json
+poi_proximity.json
+geocode_cache.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
