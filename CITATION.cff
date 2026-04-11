@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "Equal Commute Finder"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - given-names: "Michael"            # ← your given name
+    family-names: "Aye"           # ← your family name
+    # orcid: "https://orcid.org/0000-0002-4088-1928"  # optional, uncomment if you have one
+    # affiliation: "Freie Uni Berlin, Germany"          # optional
+version: 0.1.0
+date-released: "2026-04-11"
+url: "https://github.com/michaelaye/equal-commute"        # ← your repo URL
+repository-code: "https://github.com/michaelaye/equal-commute"
+license: MIT
+keywords:
+  - commuting
+  - urban-planning
+  - openrouteservice
+  - openstreetmap
+  - isochrone
+  - housing-search
+  - geospatial
+  - folium
+  - python
+abstract: >
+  Equal Commute Finder identifies neighborhoods where driving commute time
+  to two different workplaces is approximately equal, helping households
+  with two earners pick where to live. It samples a regular grid over a
+  city, queries OpenRouteService for travel times to both destinations,
+  extracts the equal-commute boundary plus a tolerance band, and renders
+  an interactive Leaflet map with overlays for OpenStreetMap points of
+  interest (kindergartens, schools, restaurants, cafes, supermarkets) and
+  per-mode (drive, bike, walk) travel times to user-pinned addresses.
