@@ -4,7 +4,7 @@ Find neighborhoods where driving commute time to **two** workplaces is roughly
 equal — useful when two people in a household work in different parts of a
 city and need to pick somewhere to live.
 
-![screenshot](equi_commute_berlin.html)
+![Equal commute map for Berlin showing red/blue bands, the ±5 min decision zone with viridis commute-time colormap, and POI markers](docs/screenshot.png)
 
 ## What it does
 
