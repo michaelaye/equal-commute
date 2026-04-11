@@ -1,5 +1,7 @@
 # Equal Commute Finder
 
+[![DOI](https://zenodo.org/badge/1208070622.svg)](https://doi.org/10.5281/zenodo.19520780)
+
 Find neighborhoods where driving commute time to **two** workplaces is roughly
 equal — useful when two people in a household work in different parts of a
 city and need to pick somewhere to live.
