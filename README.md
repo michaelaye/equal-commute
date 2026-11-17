@@ -94,4 +94,4 @@ MIT — see `LICENSE`.
 ## Acknowledgements
 
 Map data © OpenStreetMap contributors, routing by OpenRouteService, basemap
-tiles by CartoDB.
+tiles by OpenStreetMap.

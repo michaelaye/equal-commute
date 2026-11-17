@@ -586,7 +586,7 @@ def build_map(
     center_lat = (BERLIN_BBOX["lat_min"] + BERLIN_BBOX["lat_max"]) / 2
     center_lon = (BERLIN_BBOX["lon_min"] + BERLIN_BBOX["lon_max"]) / 2
 
-    m = folium.Map(location=[center_lat, center_lon], zoom_start=11, tiles="CartoDB positron")
+    m = folium.Map(location=[center_lat, center_lon], zoom_start=11, tiles="OpenStreetMap")
 
     # ---- Travel-time difference as filled contour bands ----
     # In-band (±MAX_DIFF_MINUTES) is left transparent so the basemap shows
